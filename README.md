@@ -10,6 +10,8 @@
 原理篇的博客文章在[这里](https://www.jianshu.com/nb/42883120)
 我首先对每篇教程进行了全文翻译，唯二的区别是博客里的图片都是我自己实现后跑出来的；为了大家可以全局地理解，我会在每篇博客的开头，讲述这篇的原理主要实现了什么。
 
+学习原理的过程中，很多知识点也搞不清楚，很多的解惑都来自于这个[网站](https://learnopengl-cn.github.io/intro/)。
+
 原理篇的博客主要分为——
 - [Bresenham直线生成算法和线框渲染](https://www.jianshu.com/writer#/notebooks/42883120/notes/58635995/preview)
 - [三角形栅格化和后向面剔除](https://www.jianshu.com/writer#/notebooks/42883120/notes/58891670/preview)
