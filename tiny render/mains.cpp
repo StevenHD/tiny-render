@@ -4,7 +4,7 @@
 #include <cmath>
 #include <algorithm>
 
-#include "tgaimage.h"
+#include "tgaimage.h" //**initial import**
 #include "model.h"
 #include "geometry.h"
 #include "our_gl.h"

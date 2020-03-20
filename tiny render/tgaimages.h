@@ -134,7 +134,7 @@ public:
 
 	~TGAImage();
 
-	TGAImage& operator = (const TGAImage& img);
+	TGAImage& operator =(const TGAImage& img);
 
 	int get_width();
 	int get_height();

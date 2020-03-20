@@ -3,8 +3,8 @@
 
 #include <vector>
 #include <string>
-#include "geometry.h"
-#include "tgaimage.h"
+#include "geometry3h.h"
+#include "tgaimage3h.h"
 
 class Model 
 {
@@ -44,7 +44,6 @@ public:
 
 	std::vector<int> face(int idx); //这个c代表的是脸的哪些部分？idx我记得是索引的表示
 };
-
 
 
 #endif // !__MODEL_H__
