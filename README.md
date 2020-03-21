@@ -1,4 +1,4 @@
-## How to make a tiny-render?
+# How to make a tiny-render?
 这次通过学习这个[repository](https://github.com/ssloy/tinyrenderer/wiki)的内容，自己也实现了一个迷你渲染器。
 主要的收获是**渲染器实现**的原理，并且在实现过程中将**C++**也巩固了一番。
 
@@ -8,9 +8,9 @@
 在这个实现的过程中，会将其中的c++的知识总结归纳出来，我将其归类为**《语法篇》**。
 
 ### 原理篇
-我首先对每篇教程进行了全文翻译，唯二的区别是博客里的图片都是我自己实现后跑出来的；为了大家可以全局地理解，我会在每篇博客的开头，讲述这篇的原理主要实现了什么，会有每一章对应的**小总结**。
+我首先对每篇教程进行了**全文翻译**，唯二的区别是博客里的图片都是我自己实现后跑出来的；为了大家可以全局地理解，我会在每篇博客的开头，讲述这篇的原理主要实现了什么，会有每一章对应的**小总结**。
 
-学习原理的过程中，很多知识点也搞不清楚，自己也google了很多的外部资料，其中很多的解惑都来自于这个[网站](https://learnopengl-cn.github.io/intro/)。
+学习原理的过程中，很多知识点也搞不清楚，自己也google了很多的外部资料，其中很多的**解惑**都来自于这个[网站](https://learnopengl-cn.github.io/intro/)。
 
 原理篇的博客主要分为——
 - [Bresenham直线生成算法和线框渲染](https://www.jianshu.com/writer#/notebooks/42883120/notes/58635995/preview)和[Lesson 1 小总结](https://www.jianshu.com/writer#/notebooks/42883120/notes/65560072/preview)
