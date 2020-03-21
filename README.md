@@ -27,7 +27,7 @@
 - [TGA文件的读取及编码](https://www.jianshu.com/writer#/notebooks/42883120/notes/60977192)
 - [.OBJ文件的理解](https://www.jianshu.com/writer#/notebooks/42883120/notes/62246297/preview)
 - [双切线空间法线贴图](https://www.jianshu.com/writer#/notebooks/42883120/notes/64674894/preview)和[Lesson 6 小总结](https://www.jianshu.com/writer#/notebooks/42883120/notes/65402522/preview)
-- [阴影贴图](https://www.jianshu.com/writer#/notebooks/42883120/notes/64708089/preview)和[Lesson 6 小总结](https://www.jianshu.com/writer#/notebooks/42883120/notes/65374809/preview)
+- [阴影贴图](https://www.jianshu.com/writer#/notebooks/42883120/notes/64708089/preview)和[Lesson 7 小总结](https://www.jianshu.com/writer#/notebooks/42883120/notes/65374809/preview)
 - [环境光遮蔽](https://www.jianshu.com/writer#/notebooks/42883120/notes/64871039/preview)
 - [具有透视变形的线性插值技术难点](https://www.jianshu.com/writer#/notebooks/42883120/notes/64877925/preview)
 - [实现渲染器的易错点](https://www.jianshu.com/writer#/notebooks/42883120/notes/64878719/preview)
