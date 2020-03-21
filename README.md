@@ -1,7 +1,7 @@
 # How to make a tiny-render?
 这次通过学习这个[repository](https://github.com/ssloy/tinyrenderer/wiki)的内容，自己也实现了一个迷你渲染器。
 
-主要的收获是**渲染器实现**的原理，并且在实现过程中将*C++*也巩固了一番。
+主要的收获是**渲染器实现**的原理，并且在实现过程中将**Cpp**也巩固了一番。
 
 ---
 
