@@ -15,27 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main3-homework.cpp">
+    <ClCompile Include="geometry.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="model3-homework.cpp">
+    <ClCompile Include="model.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="tgaimage3-homework.cpp">
+    <ClCompile Include="our_gl.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="geometry3-homework.cpp">
+    <ClCompile Include="tgaimage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="tgaimage3-homework.h">
+    <ClInclude Include="geometry.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="model3-homework.h">
+    <ClInclude Include="model.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="geometry3-homework.h">
+    <ClInclude Include="tgaimage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="our_gl.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

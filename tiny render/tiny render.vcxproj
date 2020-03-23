@@ -19,15 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="geometry3-homework.cpp" />
-    <ClCompile Include="main3-homework.cpp" />
-    <ClCompile Include="model3-homework.cpp" />
-    <ClCompile Include="tgaimage3-homework.cpp" />
+    <ClCompile Include="geometry.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="model.cpp" />
+    <ClCompile Include="our_gl.cpp" />
+    <ClCompile Include="tgaimage.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="geometry3-homework.h" />
-    <ClInclude Include="model3-homework.h" />
-    <ClInclude Include="tgaimage3-homework.h" />
+    <ClInclude Include="geometry.h" />
+    <ClInclude Include="model.h" />
+    <ClInclude Include="our_gl.h" />
+    <ClInclude Include="tgaimage.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
