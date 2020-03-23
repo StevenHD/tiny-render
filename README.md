@@ -2,7 +2,7 @@
 这次通过学习这个[repository](https://github.com/ssloy/tinyrenderer/wiki)的内容，自己也实现了一个迷你渲染器。
 
 实现的结果如下：
-![图1](https://upload-images.jianshu.io/upload_images/20254147-216e750390f073f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![图1](https://upload-images.jianshu.io/upload_images/20254147-e5c91011a640bbd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![图2](https://upload-images.jianshu.io/upload_images/20254147-81cce39e95ac9b30.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![图3](https://upload-images.jianshu.io/upload_images/20254147-5d863ad51f3a2351.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![图4](https://upload-images.jianshu.io/upload_images/20254147-62d864ae2226eadc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
