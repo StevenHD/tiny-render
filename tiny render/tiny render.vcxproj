@@ -18,19 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="geometry.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="model.cpp" />
-    <ClCompile Include="our_gl.cpp" />
-    <ClCompile Include="tgaimage.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="geometry.h" />
-    <ClInclude Include="model.h" />
-    <ClInclude Include="our_gl.h" />
-    <ClInclude Include="tgaimage.h" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{9EC84148-055C-43C0-80D9-48A9FC82F1CA}</ProjectGuid>
