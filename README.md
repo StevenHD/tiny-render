@@ -55,3 +55,13 @@
 - [template模板的使用](https://www.jianshu.com/writer#/notebooks/41885121/notes/60604475/preview)
 - [new，delete的使用](https://www.jianshu.com/writer#/notebooks/41885121/notes/60962619)
 - [int argc, char *argv[]的意义](https://www.jianshu.com/writer#/notebooks/41885121/notes/62262746/preview)
+
+---
+
+### 联系我
+
+当然，大家有任何问题都可以与我联系。
+
+我的**邮箱**：
+Outlook: hlhdsteven825@outlook.com
+Gmail: stevenhd19970825@gmail.com
