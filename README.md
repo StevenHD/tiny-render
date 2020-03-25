@@ -2,6 +2,7 @@
 这次通过学习这个[repository](https://github.com/ssloy/tinyrenderer/wiki)的内容，自己也实现了一个迷你渲染器。
 
 实现的结果如下：
+
 ![图1](https://upload-images.jianshu.io/upload_images/20254147-e5c91011a640bbd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![图2](https://upload-images.jianshu.io/upload_images/20254147-81cce39e95ac9b30.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![图3](https://upload-images.jianshu.io/upload_images/20254147-5d863ad51f3a2351.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -9,6 +10,13 @@
 ![图5](https://upload-images.jianshu.io/upload_images/20254147-a6394363d26443ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 本次复现主要的收获是**渲染器实现**的工作原理，并且在实现过程中将**Cpp**也巩固了一番。
+
+---
+
+## 文件介绍
+
+1. 《tiny render》文件夹中《Lesson 1~Lesson 8》是在学习博客中写的。
+2. 《tiny render》文件夹中《Final render》是最后自己实现的。
 
 ---
 
