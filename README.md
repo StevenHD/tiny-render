@@ -63,5 +63,7 @@
 当然，大家有任何问题都可以与我联系。
 
 我的**邮箱**：
-Outlook: hlhdsteven825@outlook.com
-Gmail: stevenhd19970825@gmail.com
+
+**Outlook**: hlhdsteven825@outlook.com
+
+**Gmail**: stevenhd19970825@gmail.com
